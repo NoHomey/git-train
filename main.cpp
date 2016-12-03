@@ -9,5 +9,6 @@ int min(int n) {
 }
 
 int main() {
+  std::cout << min(2) << std::endl;
   return 0;
 }
